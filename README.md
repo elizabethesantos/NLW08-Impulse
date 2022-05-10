@@ -28,10 +28,11 @@
 <br>
 
 <p>Deploy</p>
-Email: Mailtrap
-FrontEnd: Vercel
-BackEnd: Railway
-          
+<ul>
+<li>Email: Mailtrap</li>
+<li>FrontEnd: Vercel</li>
+<li>BackEnd: Railway</li>
+</ul>          
 ##
 
 <img align="center" alt="Elizabeth-Js" height="400" width="800" src="https://github.com/elizabethesantos/NLW08-Impulse/blob/main/NLW08-ReturnFrente.jpeg">
