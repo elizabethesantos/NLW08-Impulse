@@ -24,6 +24,12 @@
  <li>SOLID</li>
  <li>Jest</li>
 </ul>
+
+<br>
+
+<p>Deploy</p>
+FrontEnd: Vercel
+BackEnd: Railway
           
 ##
 
