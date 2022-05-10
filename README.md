@@ -28,6 +28,7 @@
 <br>
 
 <p>Deploy</p>
+Email: Mailtrap
 FrontEnd: Vercel
 BackEnd: Railway
           
